@@ -1,2 +1,1 @@
-# CatDog
-Classification
+# Machine Learning Projects
